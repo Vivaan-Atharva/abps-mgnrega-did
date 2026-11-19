@@ -1,0 +1,40 @@
+{
+  "panel_rows_before_merge": 2823,
+  "rows_matched_to_exposure": 2801,
+  "negative_rows_excluded": 207,
+  "winsor_bounds_per_1000": [
+    0.27020248228048155,
+    497.4975824804084
+  ],
+  "years": [
+    "2019-2020",
+    "2020-2021",
+    "2021-2022",
+    "2022-2023"
+  ],
+  "districts": 706,
+  "states": 33,
+  "high_friction_districts": 85,
+  "pre_mean_rate_high": 46.76461036804332,
+  "pre_mean_rate_all": 34.11952321497412,
+  "post_mean_rate_all": 120.43112450487368,
+  "lead_coefs": {
+    "ev_2019": -12.19,
+    "ev_2020": 8.668
+  },
+  "max_abs_lead_t": 1.419419662774758,
+  "first_stage_pp": -6.785679684419063,
+  "first_stage_se": 2.2249221716221674,
+  "first_stage_F": 9.301587213800644,
+  "wald_did_per_10pp": -1.7386206965742121,
+  "wald_boot_ci95": [
+    -40.76728268019238,
+    22.12204476735866
+  ],
+  "wald_boot_reps": 300,
+  "main": {
+    "coef": -1.179772313965415,
+    "se": 9.295222093182142,
+    "p": 0.8997959765803596
+  }
+}

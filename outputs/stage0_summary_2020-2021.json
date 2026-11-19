@@ -1,0 +1,55 @@
+{
+  "base_fy": "2020-2021",
+  "n_districts_exposure": 710,
+  "current_snapshot_matched": 710,
+  "of": 710,
+  "abps_flags": [
+    {
+      "fy": "2018-2019",
+      "rows": 574,
+      "share_gt_max": 18,
+      "zero_wage_denominator": 1
+    },
+    {
+      "fy": "2019-2020",
+      "rows": 588,
+      "share_gt_max": 18,
+      "zero_wage_denominator": 1
+    },
+    {
+      "fy": "2020-2021",
+      "rows": 589,
+      "share_gt_max": 17,
+      "zero_wage_denominator": 1
+    },
+    {
+      "fy": "2021-2022",
+      "rows": 603,
+      "share_gt_max": 17,
+      "zero_wage_denominator": 0
+    }
+  ],
+  "key_readiness_for_loso": "abps_share@2021-2022",
+  "v1_primary_passes": [
+    {
+      "readiness": "abps_share@2019-2020",
+      "coef_sd": -0.13757903519575174,
+      "p": 1.2102081965754444e-05,
+      "F_eff": 29.031580332929494
+    },
+    {
+      "readiness": "abps_share@2020-2021",
+      "coef_sd": -0.15361333292103324,
+      "p": 1.4553785372938538e-08,
+      "F_eff": 65.34195387748642
+    },
+    {
+      "readiness": "abps_share@2021-2022",
+      "coef_sd": -0.1335659298797876,
+      "p": 9.864136857766686e-09,
+      "F_eff": 64.30306361204894
+    }
+  ],
+  "loso_sign_stable": true,
+  "decision": "GO"
+}

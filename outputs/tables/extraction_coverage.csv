@@ -1,0 +1,16 @@
+key,report,fy,status,states_fetched,states_linked,districts,fetch_errors,fetched_utc
+abps_2018-2019,Aadhar Based Payment Report,2018-2019,done,28,28,578,,2026-10-29T04:31:39.079Z
+abps_2019-2020,Aadhar Based Payment Report,2019-2020,done,28,28,589,,2026-10-29T04:30:41.857Z
+abps_2020-2021,Aadhar Based Payment Report,2020-2021,done,28,28,590,,2026-10-29T04:28:43.555Z
+abps_2021-2022,Aadhar Based Payment Report,2021-2022,done,30,30,605,,2026-10-29T04:29:41.860Z
+acc_2018-2019,Account Opened and Amount Disbursed through Bank/Post Office in MGNREGA,2018-2019,done,33,33,696,,2026-10-29T04:26:10.905Z
+acc_2019-2020,Account Opened and Amount Disbursed through Bank/Post Office in MGNREGA,2019-2020,done,34,34,702,,2026-10-29T05:02:34.457Z
+acc_2020-2021,Account Opened and Amount Disbursed through Bank/Post Office in MGNREGA,2020-2021,done,34,34,711,,2026-10-29T05:01:33.056Z
+acc_2021-2022,Account Opened and Amount Disbursed through Bank/Post Office in MGNREGA,2021-2022,done,34,34,714,,2026-10-29T04:24:04.056Z
+auth_current,Aadhaar Authentication Status Report,2020-2021,done,34,34,744,,2026-10-29T05:00:27.549Z
+del_2018-2019,Deleted Job Card/Applicants with A/C No Photos Uploaded,2018-2019,done,33,33,699,,2026-10-29T05:06:04.943Z
+del_2019-2020,Deleted Job Card/Applicants with A/C No Photos Uploaded,2019-2020,done,33,33,702,,2026-10-29T05:04:28.740Z
+del_2020-2021,Deleted Job Card/Applicants with A/C No Photos Uploaded,2020-2021,done,34,34,713,,2026-10-29T05:00:46.489Z
+del_2021-2022,Deleted Job Card/Applicants with A/C No Photos Uploaded,2021-2022,done,34,34,716,,2026-10-29T05:03:39.264Z
+del_2022-2023,Deleted Job Card/Applicants with A/C No Photos Uploaded,2022-2023,done,34,34,734,,2026-10-29T05:05:20.159Z
+npci_current,Aadhaar Status with NPCI Mapper,2020-2021,done,34,34,744,,2026-10-29T05:00:09.329Z

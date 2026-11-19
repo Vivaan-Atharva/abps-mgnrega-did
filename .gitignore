@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+deliverables/build/
+deliverables/ByteMe_ADA_Video.mp4
+deliverables/ByteMe_ADA_Video.srt
+deliverables/report/*.out
+deliverables/report/*.aux
+deliverables/report/*.log
+*.tmp.mp4
